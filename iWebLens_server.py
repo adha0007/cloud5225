@@ -1,8 +1,3 @@
-# @Author: Aditya Pujare
-# @Date:   2020-05-10
-# @Email:  pujareaditya@gmail.com
-
-
 # import the necessary packages
 import numpy as np
 import time
